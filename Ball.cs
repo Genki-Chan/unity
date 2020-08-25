@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using UnityEngine;
 
 public class Ball : MonoBehaviour
-{aiu
+{
     public float moveSpeed;
     private Rigidbody rb;
     public AudioClip coinGet;
